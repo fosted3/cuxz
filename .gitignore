@@ -1,0 +1,11 @@
+# LaTeX Files
+*.aux
+*.log
+*.pdf
+*.synctex.gz
+# Build Files
+build/*
+*.o
+# Binaries
+bin/*
+
