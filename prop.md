@@ -1,23 +1,19 @@
-Title
+# ECSE-4965 Term Project
+### Dan Foster
 
-:   \
-    cuxz
 
-Team members
+**Title**
+	cuxz
 
-:   \
+**Team members**
     Dan Foster - *fosted3@rpi.edu*
 
-Proposal
-
-:   \
+**Proposal**
     Implement LZMA2 (Lempel-Ziv-Markov chain algorithm) using both
     multiple CPU threads (OpenMP/pthread) and Thrust/CUDA, in the xz
     file container.
 
-Motivation
-
-:   \
+**Motivation**
     Data compression is widely used as a method of saving disk space or
     reducing the time needed to transfer data between machines. Current
     compressors like gzip (using DEFLATE) provide fast compression
